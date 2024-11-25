@@ -1,0 +1,15 @@
+#Non necessary or private folders
+build/
+debug/
+dist/
+nbproject/private/
+
+#Non necessary files
+nbproject/Makefile-*
+nbproject/Package-default.bash
+*.hex
+*.elf
+*.o
+*.map
+*.bak
+*.log
